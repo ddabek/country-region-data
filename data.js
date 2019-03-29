@@ -16,6 +16,12 @@
 
 return [
   {
+    "countryName": "Liberland",
+    "countryShortCode": "LL",
+    "regions": [
+      ]
+  },
+  {
     "countryName": "Afghanistan",
     "countryShortCode": "AF",
     "regions": [
