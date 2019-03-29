@@ -19,7 +19,11 @@ return [
     "countryName": "Liberland",
     "countryShortCode": "LL",
     "regions": [
-      ]
+	    {
+		    "name":"One",
+		    "shortCode":"UNO"
+	    }
+    ]
   },
   {
     "countryName": "Afghanistan",
